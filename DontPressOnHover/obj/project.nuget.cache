@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EbWAzgugHevF1+7cDBvyk15+lgcdaAajVrjPsLurw6j6lRU83GFNIJh6KLClLcY/P/easXczuOWrYxUdLsqTVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RewardedIvan\\source\\repos\\DontPressOnHover\\DontPressOnHover\\DontPressOnHover.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RewardedIvan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\RewardedIvan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\RewardedIvan\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
